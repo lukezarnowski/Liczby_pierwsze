@@ -1,1 +1,1 @@
-# Liczby_pierwsze
+# Liczby_pierwsze :)
