@@ -1,9 +1,3 @@
-# pper = 5
-
-
-# N=20
-
-
 def znajdz_pierwsze_n_liczb_pierwszych(n: int):
     liczby_pierwsze = []
     num = 2
