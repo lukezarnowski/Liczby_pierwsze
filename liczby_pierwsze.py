@@ -14,4 +14,4 @@ def znajdz_pierwsze_n_liczb_pierwszych(n: int):
 
 if __name__ == '__main__':
     N = 20
-    print(znajdz_pierwsze_n_liczb_pierwszych(5))
+    print(znajdz_pierwsze_n_liczb_pierwszych(N))
